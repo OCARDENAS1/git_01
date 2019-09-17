@@ -1,0 +1,44 @@
+---
+title: "git_01"
+author: "Oscar Cardenas"
+date: "9.11.19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+"Just the place for a Snark!" the Bellman cried,  
+   As he landed his crew with care;  
+Supporting each man on the top of the tide  
+   By a finger entwined in his hair.  
+"Just the place for a Snark! I have said it twice:  
+
+## Second Verse
+He sat and waited till he drew us out,  
+A-buttoning coats, to ask him who he was.    
+He proved to be the city come again    
+To look for something it had left behind     
+And could not do without and keep its Christmas.   
+
+## Third Verse
+The sun was shining on the sea,  
+Shining with all his might: 
+
+## Last Verse
+The rose is a rose,  
+And was always a rose.  
+But the theory now goes  
+That the apple’s a rose,  
+And the pear is, and so’s  
+The plum, I suppose.  
+The dear only knows  
+What will next prove a rose.  
+You, of course, are a rose –  
+But were always a rose.  
